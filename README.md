@@ -1,2 +1,2 @@
-# tests-git-repo
+# Tests Git Repo
 Git commands tests repository
